@@ -24,8 +24,12 @@ This question can help illustrate the increasing importance of music in society,
 2. 
 
 ## Analysis and Results
+### Question 1
 <img width="1153" alt="Screenshot 2023-04-19 at 12 03 12 PM" src="https://user-images.githubusercontent.com/82818412/233134333-b9a49f5b-9f3b-4d6b-a74c-4ba036d4bd5e.png">
 <img width="1153" alt="Screenshot 2023-04-19 at 12 03 35 PM" src="https://user-images.githubusercontent.com/82818412/233134363-9ba26f2d-7040-4e8b-80ae-d60377b0d97d.png">
 The average popularity bar for each year steadily grew in height, and the color that represented the average loudness for each year steadily grew to a darker red. The data analysis shows that both music popularity and loudness increased over time, suggesting that society increasingly values and prefers louder music. Further, it is interesting how music popularity in general continued to grow so consistently, even through major global events such as world wars.
+
+### Question 2
+<img width="1053" alt="Screenshot 2023-04-24 at 2 06 36 PM" src="https://user-images.githubusercontent.com/82818412/234079726-a32ff618-c7c5-48b9-b4bb-bd2407ab921b.png">
 
 ## Tableau Packaged Workbook
