@@ -17,8 +17,7 @@ The chosen dataset contains information on the 100 most popular songs worldwide 
 ## Generated Questions
 1. How has music popularity changed from 1921 to 2020, and what is the relationship between music popularity and track loudness throughout the years? <br>
 This question can help illustrate the increasing importance of music in society, regardless of any social, economic, or political issues that were happening at the time. Making a new song costs a LOT of money and takes a ton of time-- analysis of the output of this question can be taken from a business perspective in order to better predict the characteristics that will make a new song popular. This will help remove the "what if" aspect or fear factor around whether or not a song will actually profit.
-2. How has track popularity and energy changed over time from 1921 to 2020 as well as their relationship to one another?
-<br>
+2. How has track popularity and energy changed over time from 1921 to 2020 as well as their relationship to one another? <br>
 This question can display the hand in hand relationship of popularity and energy in music. This shows that until very recently, the more energetic a song was the more popularity it gained. As well has in recent years how the popularity of music changes very quickly.
 
 ## Manipulations
