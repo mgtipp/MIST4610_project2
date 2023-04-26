@@ -6,7 +6,7 @@ We are team 21482_4. <br>
 * [Jimmy Chancellor](https://github.com/JChancello/) <br>
 * [Austin Crispo](https://github.com/austincrispo/) <br>
 * [Clayton Hoarell](https://github.com/claytonh153454/) <br>
-* [Tabea Lent](https://github.com/tabealent/) <br>
+* [Tabea Lent](https://github.com/tabealent/group-project-2) <br>
 * [Mary Grace Tippett](https://github.com/mgtipp/MIST4610_project2)
 
 ## Dataset Description and Contents
